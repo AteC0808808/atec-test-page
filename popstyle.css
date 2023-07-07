@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+<<<<<<< HEAD
 body{
     background-color: #ffffff;
     font-family:"Roboto", sans-serif;
@@ -9,10 +10,27 @@ h1 {
     color: #purple;
     margin-left: 20px;
 }
+=======
+
+body {
+    background-color: aquamarine;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+}
+h1 {
+    color: #f28888;
+    margin-left: 20px;
+}
+>>>>>>> Hello-with-images
 
 p{
     color: white;
     margin-left: 20px;
 }
 
+<<<<<<< HEAD 
+
+=======
+
+>>>>>>> Hello-with-images
 
